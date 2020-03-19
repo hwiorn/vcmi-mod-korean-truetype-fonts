@@ -1,0 +1,19 @@
+{
+	"name" : "Korean True type fonts",
+	"description" : "Mod that replaces original bitmap fonts with similar Korean true type fonts",
+	"version" : "1.0",
+	"author" : "hwiorn",
+	"contact" : "https://github.com/hwiorn/vcmi-mod-korean-truetype-fonts",
+	"modType" : "Graphical",
+	
+	"depends" :
+	[
+		"vcmi"
+	],
+	"conflicts" :
+	[
+		"cove-rus",
+		"wog rus",
+		"TrueType Fonts"
+	]
+}
